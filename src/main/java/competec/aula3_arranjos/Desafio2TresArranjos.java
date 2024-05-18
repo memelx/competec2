@@ -10,5 +10,8 @@ public class Desafio2TresArranjos {
 
         // Extra
         // [] - Faça uma estrutura de repeticao for ou while que imprima cada um dos valores
-    }
+    }int numeros [] = {14,19,54};
+    int soma = numeros[0] + numeros[1] + numeros[2];
+    System.out.println(soma)
+    //imprime: 87
 }
